@@ -5,3 +5,10 @@ repository for participation in the event
 
 - [Technical Task](readmeFiles/technicalTask.md)
 - [Steps](readmeFiles/steps.md)
+
+# Стек тхнолологий:
+
+python3.12.1
+* pytorch
+* pandas
+* matplotlib
